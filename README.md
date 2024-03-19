@@ -69,7 +69,7 @@ Teaching children about the digital world they live in. Currently this is aimed 
 - instagram
   - false perceptions
 
-## Advanced computer use
+## Advanced computer Use
 
 ### Secure passwords
 - what makes a good password and why
@@ -79,7 +79,7 @@ Teaching children about the digital world they live in. Currently this is aimed 
 
 ### Open source vs Closed source
 
-## Specific Computer user
+## Specific computer Use
 
 ### Audio editing
   audacity: record audio and edit it

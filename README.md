@@ -35,15 +35,19 @@ Teaching children about the digital world they live in. Currently this is aimed 
   - upper/lower case
   - shift & caps lock
   - hotkeys & shortcuts
+- mouse
 - types of cable:
   - usb c
   - usb b
   - lightning
+- other hardware / media
   - usb keys
   - CDs
   - DVDs
   - HDMI
   - headphone jacks 3.5mm
+  - microphone/headset
+  - mic in, aux out
 - components of a PC
 
 ### Computer Functionality

@@ -19,7 +19,10 @@
 - account polution: show my reddit vs linkedin
 - evaluating information: sources and AI images
 - passwords, shoulder surfing, pin numbers, logging on and off
+- convenience vs security
 - viruses
+- online purchases: get them to help me buy something. find a scam site and evaluate it
+- adverts
 
 #### Offline safety
 - USB devices: dont plug random things in
@@ -39,12 +42,12 @@
 
 #### Functionality
 - connect to the internet / wifi
+- search
 - sending email
 - booking appointments
 - using a calendar
 - saving files
 - delete and recover files
-- online purchases: get them to help me buy something. find a scam site and evaluate it
 - managing free space
 - cut/copy/paste
 
@@ -58,13 +61,13 @@
   instagram: false perceptions
 
 
-#### Advanced computer use
+### Advanced computer use
 
 #### Secure passwords
   what makes a good password and why
   password managers
 
- Command line
+#### Command line
 
 #### Open source vs Closed source
 
@@ -86,3 +89,5 @@
 #### Word editing
 
 #### PDF
+
+#### ChatGPT etc

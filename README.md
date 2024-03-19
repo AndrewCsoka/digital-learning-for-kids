@@ -1,14 +1,11 @@
 # Digital Learning For Kids
 
-## Aim
+Teaching children about the digital world they live in. Currently this is aimed at 6-8 year olds. So far this only a vague overview of topics, some of which may be too advanced. Over time this can be refined.
 
-- 6-8 year olds
 
-## The plan
+## Basic use of computers
 
-### Basic use of computers
-
-#### Online Safety
+### Online Safety
 - SSL
 - card details
 - following links
@@ -24,12 +21,12 @@
 - online purchases: get them to help me buy something. find a scam site and evaluate it
 - adverts
 
-#### Offline safety
+### Offline Safety
 - USB devices: dont plug random things in
 - lock screen
 - shoulder surfing, pin numbers, logging on and off
 
-#### Hardware
+### Hardware
 - Turning off/on & sleep mode
 - keyboard:
   - space bar
@@ -47,9 +44,9 @@
   - DVDs
   - HDMI
   - headphone jacks 3.5mm
+- components of a PC
 
-
-#### Functionality
+### Computer Functionality
 - connect to the internet / wifi
 - search
 - sending email
@@ -60,43 +57,42 @@
 - managing free space
 - cut/copy/paste
 
+### Debugging
 
-
-#### Debugging
-
-#### Changing settings
+### Changing settings
 
 #### Social media
-  instagram: false perceptions
+- instagram
+  - false perceptions
 
+## Advanced computer use
 
-### Advanced computer use
+### Secure passwords
+- what makes a good password and why
+- password managers
 
-#### Secure passwords
-  what makes a good password and why
-  password managers
+### Command line
 
-#### Command line
-
-#### Open source vs Closed source
+### Open source vs Closed source
 
 ## Specific Computer user
 
-#### Audio editing
+### Audio editing
   audacity: record audio and edit it
 
-#### Picture editing
+### Picture editing
   photoshop clone: take a photo, load it up, edit it, email it
 
-#### Video editing
+### Video editing
   Final cut: record video, chop out context
 
-#### website editing
+### website editing
 
-#### Spreadsheet
+### Spreadsheet
 
-#### Word editing
+### Word editing
+- text editing
+- formatting
+- pdf
 
-#### PDF
-
-#### ChatGPT etc
+### ChatGPT etc

@@ -13,8 +13,8 @@ Teaching children about the digital world they live in. Currently this is aimed 
 - dont share information
 - permenance
 - avoiding app purchases
-- account polution: show my reddit vs linkedin
-- evaluating information: sources and AI images
+- account pollution: semi-anonymous sites like reddit vs facebook & linkedin
+- evaluating information: trustworthy sources and AI images
 - passwords
 - convenience vs security
 - viruses

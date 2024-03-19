@@ -14,11 +14,11 @@
 - following links
 - scams: too good to be true
 - dont share information
-- permenance - you used to like mickey mouse clubhouse. you don't now
+- permenance
 - avoiding app purchases
 - account polution: show my reddit vs linkedin
 - evaluating information: sources and AI images
-- passwords, shoulder surfing, pin numbers, logging on and off
+- passwords
 - convenience vs security
 - viruses
 - online purchases: get them to help me buy something. find a scam site and evaluate it
@@ -26,9 +26,18 @@
 
 #### Offline safety
 - USB devices: dont plug random things in
+- lock screen
+- shoulder surfing, pin numbers, logging on and off
 
 #### Hardware
-- Turning off/on
+- Turning off/on & sleep mode
+- keyboard:
+  - space bar
+  - typing
+  - touch typing
+  - upper/lower case
+  - shift & caps lock
+  - hotkeys & shortcuts
 - types of cable:
   - usb c
   - usb b

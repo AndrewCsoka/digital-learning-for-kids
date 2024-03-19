@@ -86,7 +86,7 @@ Teaching children about the digital world they live in. Currently this is aimed 
 ### Video editing
   Final cut: record video, chop out context
 
-### website editing
+### HTML and websites
 
 ### Spreadsheet
 
